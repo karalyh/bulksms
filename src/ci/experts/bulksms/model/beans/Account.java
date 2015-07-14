@@ -18,6 +18,10 @@ public abstract class Account{
 	public void setCredit(double credit){
 		this.credit=credit;
 	}
+	public boolean getStatus(){
+		return status;
+		
+	}
 	
 
 }
