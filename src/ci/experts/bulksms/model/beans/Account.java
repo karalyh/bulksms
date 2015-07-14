@@ -1,5 +1,5 @@
 package ci.experts.bulksms.model.beans;
-
+//ALYH KARAMOKO COMMENTS
 public abstract class Account{
 	int id; //account id
 	double credit; // account credit
